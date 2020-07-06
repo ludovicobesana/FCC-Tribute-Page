@@ -2,6 +2,7 @@
 *  Responsive Web Design Projects - Build a Tribute Page *
 *               @author Ludovico Besana                  */
 
+/* User Story #9 */
 body{
   text-align: center;
   font-family: 'Tenali Ramakrishna', sans-serif;
@@ -25,6 +26,8 @@ h1{
 h2 {
   font-size: 3.25rem;
 }
+
+/* User Story #8 */
 
 img {
   max-width: 100%;
